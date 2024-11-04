@@ -1,4 +1,4 @@
-# example-submission-repository
+# FullStack Open
 
 
 You may submit all the exercises of this course into the same repository, or use multiple repositories. If you submit exercises of different parts into the same repository, please use a sensible naming scheme for the directories.
